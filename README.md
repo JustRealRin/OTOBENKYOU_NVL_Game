@@ -4,7 +4,7 @@
 2.游戲**工程文件/原始碼Source code**，亦可隨意查閲、修改、二次分發，但必須遵守 **GPLv3** 協議。
 
 
-3.本游戲工程文件中的 **圖像Picture** 、 **音訊Audio** 為 **版權素材Copytright** ， 本團隊已購買有關素材的版權，但此類授權通常不得二次授權或轉讓！
+3.本游戲工程文件中的 **圖像Picture** 、 **音訊Audio** 為 **版權素材Copytright** ， 本社團已購買有關素材的版權，但此類授權通常不得二次授權或轉讓！
 
 
-4.任何 **圖像Picture** **和And** **音樂Music** 均 **禁止修改Modification prohibited** 、**禁止二次分發Distribution prohibited**
+4.任何 **圖像Picture** **和And** **音訊Audio** 均 **禁止修改Modification prohibited** 、**禁止二次分發Distribution prohibited**
