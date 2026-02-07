@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/Girl.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "隨處可見的女學生。",
+            "copy": false
+        }
+    },
+    "id": 8
+}

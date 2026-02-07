@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/LuoLi.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "我最最最最最可愛的妹妹，天下第一的好妹妹！\n從小就一直粘著我，可愛到讓人窒息的好孩子。\n很懂事，總是能在我悲傷的時候撫慰我的内心。\n只可惜這段時間對我似乎有些冷淡？！\n能理解，是進入青春期了嘛~",
+            "copy": false
+        }
+    },
+    "id": 3
+}

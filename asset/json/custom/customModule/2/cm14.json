@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/Man2.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "隨處可見的男老師。",
+            "copy": false
+        }
+    },
+    "id": 14
+}

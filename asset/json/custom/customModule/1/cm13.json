@@ -1,0 +1,41 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P12_1.png",
+                "asset/image/picture/background/P12_2.png",
+                "asset/image/picture/background/P12_3.png",
+                "asset/image/picture/background/P12_4.png",
+                "asset/image/picture/background/P12_5.png",
+                "asset/image/picture/background/P12_6.png",
+                "asset/image/picture/background/P12_7.png",
+                "asset/image/picture/background/P12_8.png",
+                "asset/image/picture/background/P12_9.png",
+                "asset/image/picture/background/P12_10.png",
+                "asset/image/picture/background/P12_11.png",
+                "asset/image/picture/background/P12_12.png",
+                "asset/image/picture/background/P12_13.png",
+                "asset/image/picture/background/P12_14.png",
+                "asset/image/picture/background/P12_15.png",
+                "asset/image/picture/background/P12_16.png",
+                "asset/image/picture/background/P12_17.png",
+                "asset/image/picture/background/P12_18.png",
+                "asset/image/picture/background/P12_19.png",
+                "asset/image/picture/background/P12_20.png",
+                "asset/image/picture/background/P12_21.png",
+                "asset/image/picture/background/P12_22.png",
+                "asset/image/picture/background/P12_23.png",
+                "asset/image/picture/background/P12_24.png",
+                "asset/image/picture/background/P12_25.png",
+                "asset/image/picture/background/P12_26.png",
+                "asset/image/picture/background/P12_27.png",
+                "asset/image/picture/background/P12_28.png",
+                "asset/image/picture/background/P12_29.png",
+                "asset/image/picture/background/P12_30.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 13
+}

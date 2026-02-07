@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P3_21.png",
+                "asset/image/picture/background/P3_22.png",
+                "asset/image/picture/background/P3_23.png",
+                "asset/image/picture/background/P3_24.png",
+                "asset/image/picture/background/P3_25.png",
+                "asset/image/picture/background/P3_26.png",
+                "asset/image/picture/background/P3_27.png",
+                "asset/image/picture/background/P3_28.png",
+                "asset/image/picture/background/P3_29.png",
+                "asset/image/picture/background/P3_30.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 17
+}

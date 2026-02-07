@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/HinoshitaMiu.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "從日本來的偶像，仮面会46的隊長兼C位。\n我是動漫宅，所以對愛抖露瞭解的不算多。\n據説她這次漫展要COS我最愛的動漫角色，這下我不得不去看了。",
+            "copy": false
+        }
+    },
+    "id": 5
+}

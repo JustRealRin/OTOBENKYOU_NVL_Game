@@ -1,0 +1,52 @@
+{
+    "list": {
+        "1": [
+            null,
+            "嵐曉茵",
+            "洛玖",
+            "洛璃",
+            "林欣",
+            "木下美羽",
+            "成年男性",
+            "男學生",
+            "女學生",
+            "成年女性",
+            "成年女性",
+            "女學生",
+            "女老師",
+            "成年男性",
+            "男老師",
+            "？？？"
+        ]
+    },
+    "type": {},
+    "typeTreeNode": {
+        "isDirectory": true,
+        "children": [
+            {
+                "id": 1,
+                "name": "嵐曉茵",
+                "children": []
+            },
+            {
+                "id": 2,
+                "name": "洛玖",
+                "children": []
+            },
+            {
+                "id": 3,
+                "name": "洛璃",
+                "children": []
+            },
+            {
+                "id": 4,
+                "children": [],
+                "isOpen": true,
+                "name": "新的數據"
+            }
+        ],
+        "isOpen": true,
+        "name": "對話角色"
+    },
+    "dataShowMode": 0
+}

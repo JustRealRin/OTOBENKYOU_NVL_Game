@@ -1,0 +1,25 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P4_1.png",
+                "asset/image/picture/background/P4_2.png",
+                "asset/image/picture/background/P4_3.png",
+                "asset/image/picture/background/P4_4.png",
+                "asset/image/picture/background/P4_5.png",
+                "asset/image/picture/background/P4_6.png",
+                "asset/image/picture/background/P4_7.png",
+                "asset/image/picture/background/P4_8.png",
+                "asset/image/picture/background/P4_9.png",
+                "asset/image/picture/background/P4_10.png",
+                "asset/image/picture/background/P4_11.png",
+                "asset/image/picture/background/P4_12.png",
+                "asset/image/picture/background/P4_13.png",
+                "asset/image/picture/background/P4_14.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 4
+}

@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/Man3.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        }
+    },
+    "id": 15
+}

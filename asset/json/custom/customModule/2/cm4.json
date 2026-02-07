@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/LamJan.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "曉茵姐的青梅竹馬，性格和曉茵姐完全相反，是一個非常熱情的人。\n雖然有些腹黑，但好像，是一個好人？！\n她好像從小就暗戀曉茵姐了，真的很抱歉，讓我這種人給橫刀奪愛了。\n對不起對不起對不起（＞人＜；）\n我會盡力補償你的，有什麽要求都放馬過來吧，我這種人也就只有這點作用了QAQ\n原諒我，我什麽都會做的！拜托拜托……",
+            "copy": false
+        }
+    },
+    "id": 4
+}

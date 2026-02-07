@@ -1,0 +1,51 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P17_1.png",
+                "asset/image/picture/background/P17_2.png",
+                "asset/image/picture/background/P17_3.png",
+                "asset/image/picture/background/P17_4.png",
+                "asset/image/picture/background/P17_5.png",
+                "asset/image/picture/background/P17_6.png",
+                "asset/image/picture/background/P17_7.png",
+                "asset/image/picture/background/P17_8.png",
+                "asset/image/picture/background/P17_9.png",
+                "asset/image/picture/background/P17_10.png",
+                "asset/image/picture/background/P17_11.png",
+                "asset/image/picture/background/P17_12.png",
+                "asset/image/picture/background/P17_13.png",
+                "asset/image/picture/background/P17_14.png",
+                "asset/image/picture/background/P17_15.png",
+                "asset/image/picture/background/P17_16.png",
+                "asset/image/picture/background/P17_17.png",
+                "asset/image/picture/background/P17_18.png",
+                "asset/image/picture/background/P17_19.png",
+                "asset/image/picture/background/P17_20.png",
+                "asset/image/picture/background/P17_21.png",
+                "asset/image/picture/background/P17_22.png",
+                "asset/image/picture/background/P17_23.png",
+                "asset/image/picture/background/P17_24.png",
+                "asset/image/picture/background/P17_25.png",
+                "asset/image/picture/background/P17_26.png",
+                "asset/image/picture/background/P17_27.png",
+                "asset/image/picture/background/P17_28.png",
+                "asset/image/picture/background/P17_29.png",
+                "asset/image/picture/background/P17_30.png",
+                "asset/image/picture/background/P17_31.png",
+                "asset/image/picture/background/P17_32.png",
+                "asset/image/picture/background/P17_33.png",
+                "asset/image/picture/background/P17_34.png",
+                "asset/image/picture/background/P17_35.png",
+                "asset/image/picture/background/P17_36.png",
+                "asset/image/picture/background/P17_37.png",
+                "asset/image/picture/background/P17_38.png",
+                "asset/image/picture/background/P17_39.png",
+                "asset/image/picture/background/P17_40.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 18
+}

@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/Woman1.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "隨處可見的成年女性。",
+            "copy": false
+        }
+    },
+    "id": 9
+}

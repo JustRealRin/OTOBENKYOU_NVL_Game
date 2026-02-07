@@ -1,0 +1,41 @@
+{
+    "list": [
+        null,
+        "主場景",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "node": [
+        {
+            "id": 1,
+            "name": "主場景",
+            "children": [],
+            "isOpen": true
+        }
+    ]
+}

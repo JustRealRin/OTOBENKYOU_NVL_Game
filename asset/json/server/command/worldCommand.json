@@ -1,0 +1,195 @@
+{
+    "list": {
+        "1": [
+            null,
+            ""
+        ],
+        "15": [
+            null,
+            "啟動遊戲",
+            "檔案初始化",
+            "新的檔案-開始",
+            "新的檔案-完成",
+            "讀取檔案-開始",
+            "讀取檔案-完成",
+            "讀取檔案-失敗",
+            "儲存檔案-成功",
+            "儲存檔案-失敗",
+            "進入場景",
+            "離開場景",
+            "對話-開始",
+            "對話-結束",
+            "文本逐字播放",
+            "文本播放完成",
+            "語音播放完畢",
+            "等待玩家操作",
+            "玩家操作完畢",
+            "選項-開始"
+        ],
+        "16": [
+            null,
+            "",
+            "",
+            "",
+            "關閉窗口界面"
+        ]
+    },
+    "type": {
+        "1": "",
+        "2": "",
+        "13": "",
+        "15": "模板預設",
+        "16": "模板預設"
+    },
+    "typeTreeNode": {
+        "isDirectory": true,
+        "children": [
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 14001,
+                        "name": "啟動遊戲",
+                        "children": []
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14002,
+                                "name": "檔案初始化",
+                                "children": []
+                            },
+                            {
+                                "id": 14003,
+                                "name": "新的檔案-開始",
+                                "children": []
+                            },
+                            {
+                                "id": 14004,
+                                "name": "新的檔案-完成",
+                                "children": []
+                            },
+                            {
+                                "id": 14005,
+                                "name": "讀取檔案-開始",
+                                "children": []
+                            },
+                            {
+                                "id": 14006,
+                                "name": "讀取檔案-完成",
+                                "children": []
+                            },
+                            {
+                                "id": 14007,
+                                "name": "讀取檔案-失敗",
+                                "children": []
+                            },
+                            {
+                                "id": 14008,
+                                "name": "儲存檔案-成功",
+                                "children": []
+                            },
+                            {
+                                "id": 14009,
+                                "name": "儲存檔案-失敗",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "遊戲檔案",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14010,
+                                "name": "進入場景",
+                                "children": []
+                            },
+                            {
+                                "id": 14011,
+                                "name": "離開場景",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "場景事件",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 14012,
+                                "name": "對話-開始",
+                                "children": []
+                            },
+                            {
+                                "id": 14013,
+                                "name": "對話-結束",
+                                "children": []
+                            },
+                            {
+                                "id": 14014,
+                                "name": "文本逐字播放",
+                                "children": []
+                            },
+                            {
+                                "id": 14015,
+                                "name": "文本播放完成",
+                                "children": []
+                            },
+                            {
+                                "id": 14016,
+                                "name": "語音播放完畢",
+                                "children": []
+                            },
+                            {
+                                "id": 14017,
+                                "children": [],
+                                "isOpen": true,
+                                "name": "等待玩家操作"
+                            },
+                            {
+                                "id": 14018,
+                                "children": [],
+                                "isOpen": true,
+                                "name": "玩家操作完畢"
+                            },
+                            {
+                                "id": 14019,
+                                "children": [],
+                                "isOpen": true,
+                                "name": "選項-開始"
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "對話處理",
+                        "id": null
+                    },
+                    {
+                        "isDirectory": true,
+                        "children": [
+                            {
+                                "id": 15004,
+                                "name": "關閉窗口界面",
+                                "children": []
+                            }
+                        ],
+                        "isOpen": true,
+                        "name": "通用",
+                        "id": null
+                    }
+                ],
+                "isOpen": true,
+                "name": "系統事件",
+                "id": null
+            }
+        ],
+        "isOpen": true,
+        "name": "[#GAME_THE_EVENT_STORE]"
+    },
+    "dataShowMode": 1
+}

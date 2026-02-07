@@ -1,0 +1,15 @@
+{
+    "attrs": {
+        "face": {
+            "varType": 1,
+            "value": "asset/image/picture/characters/Woman4.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "隨處可見的女老師。",
+            "copy": false
+        }
+    },
+    "id": 12
+}

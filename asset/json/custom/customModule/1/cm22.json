@@ -1,0 +1,21 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P12_31.png",
+                "asset/image/picture/background/P12_32.png",
+                "asset/image/picture/background/P12_33.png",
+                "asset/image/picture/background/P12_34.png",
+                "asset/image/picture/background/P12_35.png",
+                "asset/image/picture/background/P12_36.png",
+                "asset/image/picture/background/P12_37.png",
+                "asset/image/picture/background/P12_38.png",
+                "asset/image/picture/background/P12_39.png",
+                "asset/image/picture/background/P12_40.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 22
+}

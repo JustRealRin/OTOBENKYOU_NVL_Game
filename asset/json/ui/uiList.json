@@ -1,0 +1,264 @@
+{
+    "list": {
+        "1": [
+            null,
+            "標題界面",
+            "讀檔界面",
+            "對話菜單",
+            "聊天主界面",
+            "存檔界面",
+            "系統設置",
+            "文本輸入界面",
+            "數字輸入界面",
+            "密碼輸入界面",
+            "遊戲結束界面",
+            "CG鑒賞",
+            "CG鑒賞大圖",
+            "提示框",
+            "音樂鑒賞",
+            "通用背景",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "2": [
+            null,
+            "檔案Item",
+            "",
+            "圖片鑒賞Item",
+            "音樂鑒賞Item",
+            "",
+            "",
+            "左邊消息",
+            "右邊消息",
+            "系統消息",
+            "角色信息",
+            "圖片放大界面"
+        ],
+        "3": [
+            null,
+            "啟動載入界面",
+            "新遊戲載入界面",
+            "讀檔載入界面",
+            "場景載入界面",
+            "返回標題時過渡界面",
+            "打開界面載入"
+        ],
+        "4": [
+            null,
+            "我的界面示例",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "16": [
+            null,
+            ""
+        ]
+    },
+    "type": {
+        "1": "主要界面",
+        "2": "零碎部件",
+        "3": "過場界面",
+        "4": "自定義",
+        "16": "插件"
+    },
+    "typeTreeNode": {
+        "isDirectory": true,
+        "children": [
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 1,
+                        "name": "標題界面",
+                        "children": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "讀檔界面",
+                        "children": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "對話菜單",
+                        "children": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "聊天主界面",
+                        "children": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "存檔界面",
+                        "children": [],
+                        "isOpen": true
+                    },
+                    {
+                        "id": 6,
+                        "name": "系統設置",
+                        "children": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "文本輸入界面",
+                        "children": []
+                    },
+                    {
+                        "id": 8,
+                        "name": "數字輸入界面",
+                        "children": []
+                    },
+                    {
+                        "id": 9,
+                        "name": "密碼輸入界面",
+                        "children": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "遊戲結束界面",
+                        "children": []
+                    },
+                    {
+                        "id": 11,
+                        "name": "CG鑒賞",
+                        "children": [],
+                        "isOpen": true
+                    },
+                    {
+                        "id": 12,
+                        "name": "CG鑒賞大圖",
+                        "children": []
+                    },
+                    {
+                        "id": 13,
+                        "name": "提示框",
+                        "children": []
+                    },
+                    {
+                        "id": 14,
+                        "children": [],
+                        "isOpen": true,
+                        "name": "音樂鑒賞"
+                    }
+                ],
+                "isOpen": true,
+                "name": "主要界面",
+                "id": null
+            },
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 15,
+                        "children": [],
+                        "isOpen": true,
+                        "name": "通用背景"
+                    },
+                    {
+                        "id": 1001,
+                        "name": "檔案Item",
+                        "children": []
+                    },
+                    {
+                        "id": 1003,
+                        "name": "圖片鑒賞Item",
+                        "children": []
+                    },
+                    {
+                        "id": 1004,
+                        "name": "音樂鑒賞Item",
+                        "children": []
+                    }
+                ],
+                "isOpen": true,
+                "name": "零碎部件",
+                "id": null
+            },
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 2001,
+                        "name": "啟動載入界面",
+                        "children": [],
+                        "isOpen": true
+                    },
+                    {
+                        "id": 2002,
+                        "name": "新遊戲載入界面",
+                        "children": []
+                    },
+                    {
+                        "id": 2003,
+                        "name": "讀檔載入界面",
+                        "children": []
+                    },
+                    {
+                        "id": 2004,
+                        "name": "場景載入界面",
+                        "children": []
+                    },
+                    {
+                        "id": 2005,
+                        "name": "返回標題時過渡界面",
+                        "children": []
+                    },
+                    {
+                        "id": 2006,
+                        "name": "打開界面載入",
+                        "children": []
+                    }
+                ],
+                "isOpen": true,
+                "name": "過場界面",
+                "id": null
+            },
+            {
+                "isDirectory": true,
+                "children": [
+                    {
+                        "id": 3001,
+                        "name": "我的界面示例",
+                        "children": []
+                    }
+                ],
+                "isOpen": true,
+                "name": "我的界面",
+                "id": null
+            },
+            {
+                "id": 1007,
+                "name": "左邊消息",
+                "children": []
+            },
+            {
+                "id": 1008,
+                "name": "右邊消息",
+                "children": []
+            },
+            {
+                "id": 1009,
+                "name": "系統消息",
+                "children": []
+            },
+            {
+                "id": 1010,
+                "name": "角色信息",
+                "children": []
+            },
+            {
+                "id": 1011,
+                "name": "圖片放大界面",
+                "children": []
+            }
+        ],
+        "isOpen": true,
+        "name": "[#GAME_INTERFACE]"
+    },
+    "dataShowMode": 0
+}

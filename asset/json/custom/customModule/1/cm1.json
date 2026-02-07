@@ -1,0 +1,14 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P1_1.png",
+                "asset/image/picture/background/P1_2.png",
+                "asset/image/picture/background/P1_3.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 1
+}

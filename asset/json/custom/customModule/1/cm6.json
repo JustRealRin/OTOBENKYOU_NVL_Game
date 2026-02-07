@@ -1,0 +1,31 @@
+{
+    "attrs": {
+        "CGs": {
+            "varType": 7,
+            "value": [
+                "asset/image/picture/background/P9_1.png",
+                "asset/image/picture/background/P9_2.png",
+                "asset/image/picture/background/P9_3.png",
+                "asset/image/picture/background/P9_4.png",
+                "asset/image/picture/background/P9_5.png",
+                "asset/image/picture/background/P9_6.png",
+                "asset/image/picture/background/P9_7.png",
+                "asset/image/picture/background/P9_8.png",
+                "asset/image/picture/background/P9_9.png",
+                "asset/image/picture/background/P9_10.png",
+                "asset/image/picture/background/P9_11.png",
+                "asset/image/picture/background/P9_12.png",
+                "asset/image/picture/background/P9_13.png",
+                "asset/image/picture/background/P9_14.png",
+                "asset/image/picture/background/P9_15.png",
+                "asset/image/picture/background/P9_16.png",
+                "asset/image/picture/background/P9_17.png",
+                "asset/image/picture/background/P9_18.png",
+                "asset/image/picture/background/P9_19.png",
+                "asset/image/picture/background/P9_20.png"
+            ],
+            "copy": false
+        }
+    },
+    "id": 6
+}
